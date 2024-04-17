@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Nice to meet you!
+
+I am Learnmore Mombe and open to hoping on Open Source projects.
+
+#JavaScript #NodeJS #React #.NET
+
+Looking Forward to working with you!
+
 <!--
 **lenmorelms/lenmorelms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
